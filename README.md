@@ -89,5 +89,4 @@ npm start
 ---
 
 ## Author
-
 Built by [Prashanth Goud](https://www.linkedin.com/in/prashanth-goud-372485294/)
