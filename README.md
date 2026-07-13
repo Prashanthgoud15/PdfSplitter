@@ -68,7 +68,7 @@ I designed this app to be privacy-friendly:
 
 - Your PDF is processed locally on your device
 - No file is uploaded to any server
-- No account or login is required
+- No account or login is required.
 
 ---
 
